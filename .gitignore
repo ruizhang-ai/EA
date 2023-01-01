@@ -1,0 +1,6 @@
+test_data
+.ipynb_checkpoints
+DY-NB/*.ttl
+DY-NB/*.pickle
+DW-NB/*.ttl
+DW-NB/*.pickle
